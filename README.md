@@ -1,9 +1,9 @@
 # Quiz
-A single page quiz application
+A single page quiz application</br>
 --------------------------------------
-Technologies used:
-1.HTML
-2.CSS(Materialize)
-3.PHP
-4.Ajax
+Technologies used:</br>
+1.HTML</br>
+2.CSS(Materialize)</br>
+3.PHP</br>
+4.Ajax</br>
 ---------------------------------------
